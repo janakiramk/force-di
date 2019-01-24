@@ -1,1 +1,54 @@
-{"packageDirectories":[{"path":"force-di","versionName":"ver 0.1","versionNumber":"0.1.0.NEXT","default":true,"package":"force-di"},{"path":"force-di-trigger-demo","default":false},{"path":"force-app-1","default":false},{"path":"force-app-2","default":false},{"path":"force-app-3","default":false},{"path":"force-di","versionName":"ver 0.1","versionNumber":"0.1.0.NEXT","default":false,"package":"Test Chandu BA"}],"namespace":"","sfdcLoginUrl":"https://login.salesforce.com","sourceApiVersion":"44.0","packageAliases":{"force-di":"0Ho1N000000GmaTSAS","force-di@0.1.0-1":"04t1N000000Cr1fQAC","force-di@0.1.0-2":"04t1N000000Cr1zQAC","force-di@0.1.0-3":"04t1N000000Cr2dQAC","force-di@0.1.0-4":"04t1N000000Cr7oQAC","Test Chandu BA":"0Ho0o000000fxVACAY","Test Chandu BA@1.2.0.3":"04t0o000001StH8AAK"}}
+{
+    "packageDirectories": [
+        {
+            "path": "force-di",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true,
+            "package": "force-di"
+        },
+        {
+            "path": "force-di-trigger-demo",
+            "default": false
+        },
+        {
+            "path": "force-app-1",
+            "default": false
+        },
+        {
+            "path": "force-app-2",
+            "default": false
+        },
+        {
+            "path": "force-app-3",
+            "default": false
+        },
+        {
+            "path": "force-di",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false,
+            "package": "Test Chandu BA"
+        },
+        {
+            "path": "force-di",
+            "package": "BA Chandu Testing",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "force-di": "0Ho1N000000GmaTSAS",
+        "force-di@0.1.0-1": "04t1N000000Cr1fQAC",
+        "force-di@0.1.0-2": "04t1N000000Cr1zQAC",
+        "force-di@0.1.0-3": "04t1N000000Cr2dQAC",
+        "force-di@0.1.0-4": "04t1N000000Cr7oQAC",
+        "Test Chandu BA": "0Ho0o000000fxVACAY",
+        "Test Chandu BA@1.2.0.3": "04t0o000001StH8AAK",
+        "BA Chandu Testing": "0Ho6F0000000080SAA"
+    }
+}
